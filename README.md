@@ -2,7 +2,7 @@
 A camera system to recognise a human face and take in facial data into a database so that they can be later recognised
 
 ## Requirements:
-
+### To run the main.py you must download the "shape_predictor_68_face_landmarks.dat" file from "dlib-models" repository: https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 and if needed change the predictor_path variable on line 53 to point to this file
 ### Installing dlib:
 
 - Go to the official CMake website: cmake.org/download
